@@ -5,7 +5,7 @@ body {
 }
 
 #welcome h1 {
-    font-family:Lucida Console;
+    font-family:"Lucida Console",Courier, monospace;
     margin-top:10px;
     font-size:20px;
     color:#76c0f6;
