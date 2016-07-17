@@ -4,9 +4,14 @@ body {
     font-family:Raleway;
 }
 
+<<<<<<< HEAD
 #welcome>h1 {
     
     font-family:"Lucida Console", Courier, monospace;
+=======
+#welcome h1 {
+    font-family:"Lucida Console",Courier, monospace;
+>>>>>>> 5b24140217b62674b838e8c7c284eab151579a07
     margin-top:10px;
     font-size:20px;
     color:#76c0f6;
