@@ -58,6 +58,7 @@ p {
 }
 
 .btn {
+    background-color:darkgrey;
     color:black;
     width:200px;
     transition:border-color 0.2s ease;
